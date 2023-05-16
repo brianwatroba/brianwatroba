@@ -1,5 +1,5 @@
 ![Banner image](banner.png)
-<h1>Hey there, I' Brian 👨🏼‍💻<h/1>
+<h1>Hey there, I'm Brian 👨🏼‍💻<h/1>
   <h3>I'm a Software Engineer building in Web3 (focused on gaming)</h3>
   <h4><i>Currently: Head of Blockchain Engineering - Stardust | previously: Meta</i></h4>
   <h3>Things I love:</h3>
