@@ -17,7 +17,7 @@
   
  <table>
   <tr>
-    <td>
+    <td valign="top">
       <h3><b>Soulbound 🪪</b></h3>
       <p>Non-transferrable Token standard for accomplishments, <br>certifications, and proof of completion</p>
       <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height="20" />
@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/Hardhat-181a1f?style=for-the-badge&logo=data:image/png;base64,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" height="20" />
       <img src="https://img.shields.io/badge/Alchemy-f4f4f4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAVCAYAAACzK0UYAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHJSURBVHgBpVXdUcJAEN49SeCRDkwJOCM8icQO6MBYAVoBsQLoAKxERJ/AGezA0IG+mURuvU1MJn+Dl/g95fY2+93t7rcHUAOD0ZfXt4Me1ITQdRxc+i4AngLJGdQE6jj1bLIMCnbKuctrknizfTaXoAmtmxgycBOC+C+aKeIuaEIvXQjj/BK6pgxuQRNaJEgwryCechpBA0dJBkN/zGnZrNuuqsS+uG+Qv4D/kHBwErAwZOjyWh5OnKIPAtp8EGhKooo959wj0oS18fpirIjoqRyB/mzpShIOigjXqeFXG6FoO2VvtGIN1SQBKXOF5rT0h4HztkIPCO6L7oQwOdYEJRIOhoijUiBSBAqBMOfFJohamoKZFkkksIocE8ED14S/1W0+SAq3Itb4/CK0K+zQyi4igSHklEwAn6Ew3ayNR4oK6BWDfbdaJRsDM7ew1JXfSx6qBrFOmiO9iSH9JWBxXtJ+s+64nEY1IB/VrsaYJy/A9hmnNbFENWFBVRU7ESALUo+AgRZrLGeJSNRjFL0V2fMo4W3XHTvSDNEOakIexFXSLCJ9jApIhVfQjC7w5DBNvoUasU7pFJLuWHix8stp1CJhATd4qhvjB3LwvmsBYBzSAAAAAElFTkSuQmCC" height="20" />
     </td>
-    <td>
+    <td valign="top">
       <h3><b>Stream Loot 🏆</b></h3>
       <p>On-chain rewards program for Twitch streamers and their communities</p>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20" />
@@ -39,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td valign="top">
       <h3>Chat Jump 👾</h3>
       <p>Jumper platform game for Twitch streamers to play live with their chat</p>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20" />
@@ -51,7 +51,7 @@
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20" />
       <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20" />
     </td>
-    <td>
+    <td valign="top">
       <h3>Kinship 🌱</h3>
       <p>SMS-based daily question game that helps families feel more connected</p>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20" />
@@ -63,7 +63,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td valign="top">
       <h3>Spyfall 🕵️</h3>
       <p>Digital version of popular "whodunnit" board game</p>
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="20" />
@@ -73,7 +73,7 @@
       <br>
       <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20" />
     </td>
-    <td>
+    <td valign="top">
       <h3>BrianCoin 🪙</h3>
       <p>Creation, offering, and trading of BrianCoin (ERC-20 token + <br>Basic Liquidity Pool)</p>
       <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height="20" />
@@ -83,7 +83,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td valign="top">
       <h3>Lirola Phone 📱</h3>
       <p>Retro phone simulator, portfolio site for Jesse Lirola (photographer)</p>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20" />
@@ -93,7 +93,7 @@
       <br>
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="20" />
     </td>
-    <td>
+    <td valign="top">
       <h3>Collector DAO ⚖️</h3>
       <p>DAO to propose, vote on, and purchase NFTs for community ownership</p>
       <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height="20" />
