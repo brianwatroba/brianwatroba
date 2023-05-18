@@ -12,8 +12,8 @@
     </ul>
   </p>
   <h3>What I build:</h3>
-  <p>I love hacking on things me and my communities care about and want to use.</p>
-  <p>My personal projects have <b>150K MAU</b> and combine elements of gaming, web3, and consumer-minded design</p>
+  <p>Things me and my communities care about and want to use.</p>
+  <p>With <b>150K+ MAU</b> across all projects, I love to mix elements of gaming, web3, and consumer-minded design.</p>
   
  <table>
   <tr>
