@@ -1,7 +1,7 @@
 ![Banner image](banner.png)
 <h1>Hey there, I'm Brian 👨🏼‍💻<h/1>
   <h3>I'm a Software Engineer building in Web3 (focused on gaming)</h3>
-  <h4><i>Currently: Head of Blockchain Engineering - <a href="https://www.stardust.gg">Stardust</a> | previously: <a href="https://www.meta.com">Meta</i></a></h4>
+  <h4><i>Previously: Head of Blockchain Engineering - <a href="https://www.stardust.gg">Stardust</a> | <a href="https://www.meta.com">Meta</i></a></h4>
   <h3>Things I love:</h3>
   <p>
     <ul>
