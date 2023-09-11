@@ -54,8 +54,8 @@
       <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20" />
     </td>
     <td valign="top">
-      <a href="https://github.com/brianwatroba/kinship"><h3>Kinship 🌱</h3></a>
-      <p>SMS-based daily question game that helps families feel more connected</p>
+      <a href="https://www.usesundays.com"><h3>Sundays 🌱</h3></a>
+      <p>A shared and interactive family journal. All written over text messages.</p>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20" />
       <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="20" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="20" />
